@@ -1,4 +1,4 @@
-package dev.ufuk.bakan.arackiralamaportali;
+package dev.ufuk.bakan;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
